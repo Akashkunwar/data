@@ -1,0 +1,501 @@
+S No,17. Does this family Member takes the decision to buy toothpaste in the household? ,18. Does this family member go and shop for toothpaste in the household? ,19. Does this family member take the decision to buy toothbrush in the household? ,20. Does this family member go and shop for toothbrush in the household? ,21. Total Family Members in the House Other Than You ,22b. Age of Family Member ,22d. How often do you clean your mouth? ,22e. What did this member do today in the morning for cleaning mouth? ,22f. What did this member do yesterday in the morning for cleaning mouth? ,22g. What did this member do before 2 days in the morning for cleaning mouth? ,22h. What did this member do before 3 days in the morning for cleaning mouth? ,22i. What did this member do before 4 days in the morning for cleaning mouth? ,22j. What did this member do before 5 days in the morning for cleaning mouth? ,22k. What did this member do before 6 days in the morning for cleaning mouth? 
+1,No,No,No,No,3,50,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,"Toothpaste ,Toothbrush "
+2,No,No,No,No,3,48,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+3,No,No,No,No,3,26,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+4,Yes,Yes,Yes,Yes,3,25,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun 
+5,Yes,Yes,Yes,Yes,3,5,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+6,Yes,Yes,Yes,Yes,3,2,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+7,Yes,Yes,Yes,Yes,4,42,Daily ,Daatun ,Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Daatun ,"Toothpaste ,Toothbrush "
+8,Yes,Yes,Yes,Yes,4,25,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+9,Yes,Yes,Yes,Yes,4,20,Daily ,Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+10,Yes,Yes,Yes,Yes,4,22,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+11,Yes,Yes,Yes,Yes,4,50,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+12,Yes,Yes,Yes,Yes,4,18,Daily ,Kulla ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+13,Yes,Yes,Yes,Yes,4,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+14,Yes,Yes,Yes,Yes,4,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+15,No,No,No,No,3,50,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+16,No,No,No,No,3,28,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+17,No,No,No,No,3,46,Daily ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Dont know ,Daatun ,Dont know 
+18,Yes,Yes,Yes,Yes,6,35,Daily ,Kulla ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,Daatun ,Dont know 
+19,Yes,Yes,Yes,Yes,6,15,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+20,Yes,Yes,Yes,Yes,6,14,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+21,Yes,Yes,Yes,Yes,6,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+22,Yes,Yes,Yes,Yes,6,12,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+23,Yes,Yes,Yes,Yes,6,8,Daily ,"Toothpaste ,Toothbrush ",Nothing  ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Nothing  ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+24,Yes,Yes,Yes,Yes,4,23,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+25,Yes,Yes,Yes,Yes,4,50,Daily ,Kulla ,Daatun ,Kulla ,Daatun ,Kulla ,Daatun ,Kulla 
+26,Yes,Yes,Yes,Yes,4,52,Daily ,Kulla ,Daatun ,Kulla ,Daatun ,Kulla ,Daatun ,Kulla 
+27,Yes,Yes,Yes,Yes,4,3,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+28,Yes,Yes,Yes,Yes,5,25,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun ,Kulla ,Daatun ,Dont know 
+29,Yes,Yes,Yes,Yes,5,50,Daily ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,Nothing  
+30,Yes,Yes,Yes,Yes,5,50,Daily ,Daatun ,Kulla ,Daatun ,Daatun ,Kulla ,Daatun ,Kulla 
+31,Yes,Yes,Yes,Yes,5,25,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+32,Yes,Yes,Yes,Yes,5,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Nothing  ,"Toothpaste ,Toothbrush "
+33,Yes,Yes,Yes,Yes,4,27,Daily ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Kulla 
+34,Yes,Yes,Yes,Yes,4,10,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+35,Yes,Yes,Yes,Yes,4,7,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+36,Yes,Yes,Yes,Yes,4,4,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+37,Yes,Yes,Yes,Yes,4,65,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+38,Yes,Yes,Yes,Yes,4,24,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+39,Yes,Yes,Yes,Yes,4,5,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+40,Yes,Yes,Yes,Yes,4,3,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+41,Yes,Yes,Yes,Yes,4,24,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+42,Yes,Yes,Yes,Yes,4,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+43,Yes,Yes,Yes,Yes,4,60,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,Daatun 
+44,Yes,Yes,Yes,Yes,4,55,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Kulla 
+45,Yes,Yes,Yes,Yes,5,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+46,Yes,Yes,Yes,Yes,5,28,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+47,Yes,Yes,Yes,Yes,5,8,Daily ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,"Toothpaste ,Toothbrush "
+48,Yes,Yes,Yes,Yes,5,60,Daily ,Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,Daatun ,"Toothpaste ,Toothbrush "
+49,Yes,Yes,Yes,Yes,5,29,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+50,No,No,No,No,4,36,Daily ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun 
+51,No,No,No,No,4,13,Daily ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+52,No,No,No,No,4,11,Daily ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+53,No,No,No,No,4,9,Daily ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+54,Yes,Yes,Yes,Yes,5,55,Daily ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+55,Yes,Yes,Yes,Yes,5,50,Daily ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Dont know ,Daatun 
+56,Yes,Yes,Yes,Yes,5,28,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+57,Yes,Yes,Yes,Yes,5,28,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+58,Yes,Yes,Yes,Yes,5,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+59,No,No,No,No,4,45,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+60,No,No,No,No,4,24,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+61,No,No,No,No,4,22,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+62,No,No,No,No,4,25,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+63,Yes,Yes,Yes,Yes,3,35,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothbrush ,Toothpaste ",Daatun ,"Toothpaste ,Toothbrush "
+64,Yes,Yes,Yes,Yes,3,13,Daily ,Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Kulla 
+65,Yes,Yes,Yes,Yes,3,11,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+66,No,Yes,No,Yes,5,38,Daily ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun 
+67,No,Yes,No,Yes,5,18,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+68,No,Yes,No,Yes,5,16,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+69,No,Yes,No,Yes,5,14,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+70,No,Yes,No,Yes,5,12,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+71,Yes,Yes,Yes,Yes,3,30,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+72,Yes,Yes,Yes,Yes,3,17,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+73,Yes,Yes,Yes,Yes,3,14,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+74,Yes,No,Yes,No,4,35,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+75,Yes,No,Yes,No,4,6,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Nothing  ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+76,Yes,No,Yes,No,4,5,Daily ,"Toothpaste ,Toothbrush ",Nothing  ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Nothing  ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+77,Yes,No,Yes,No,4,3,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+78,No,No,No,No,8,40,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+79,No,No,No,No,8,17,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+80,No,No,No,No,8,15,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+81,No,No,No,No,8,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+82,No,No,No,No,8,8,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+83,No,No,No,No,8,13,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+84,No,No,No,No,8,5,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+85,No,No,No,No,8,80,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun 
+86,Yes,Yes,Yes,Yes,4,45,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+87,Yes,Yes,Yes,Yes,4,42,Daily ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun 
+88,Yes,Yes,Yes,Yes,4,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+89,Yes,Yes,Yes,Yes,4,22,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+90,No,No,No,No,6,40,Daily ,Kulla ,Kulla ,Ash ,Kulla ,Ash ,Kulla ,Kulla 
+91,No,No,No,No,6,13,Daily ,Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Ash 
+92,No,No,No,No,6,12,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla 
+93,No,No,No,No,6,11,Daily ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Ash 
+94,No,No,No,No,6,9,Daily ,Nothing  ,Kulla ,Nothing  ,Nothing  ,Kulla ,Nothing  ,Kulla 
+95,No,No,No,No,6,7,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+96,Yes,Yes,Yes,Yes,5,25,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+97,Yes,Yes,Yes,Yes,5,5,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+98,Yes,Yes,Yes,Yes,5,3,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+99,Yes,Yes,Yes,Yes,5,55,Daily ,Kulla ,Daatun ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,Kulla ,Daatun 
+100,Yes,Yes,Yes,Yes,5,17,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+101,Yes,Yes,Yes,Yes,4,54,Daily ,"Toothpaste ,Toothbrush ",Nothing  ,"Toothpaste ,Toothbrush ",Nothing  ,"Toothpaste ,Toothbrush ",Nothing  ,Nothing  
+102,Yes,Yes,Yes,Yes,4,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+103,Yes,Yes,Yes,Yes,4,26,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+104,Yes,Yes,Yes,Yes,4,24,Daily ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla 
+105,Yes,Yes,Yes,Yes,4,27,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+106,Yes,Yes,Yes,Yes,4,54,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+107,Yes,Yes,Yes,Yes,4,3,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+108,Yes,Yes,Yes,Yes,4,75,Daily ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla 
+109,Yes,Yes,Yes,Yes,4,54,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+110,Yes,Yes,Yes,Yes,4,36,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+111,Yes,Yes,Yes,Yes,4,29,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+112,Yes,Yes,Yes,Yes,4,32,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+113,Yes,Yes,Yes,Yes,7,23,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+114,Yes,Yes,Yes,Yes,7,50,Daily ,Kulla ,Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+115,Yes,Yes,Yes,Yes,7,48,Daily ,Kulla ,Daatun ,Kulla ,Kulla ,Daatun ,Daatun ,Dont know 
+116,Yes,Yes,Yes,Yes,7,22,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+117,Yes,Yes,Yes,Yes,7,18,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+118,Yes,Yes,Yes,Yes,7,2,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+119,Yes,Yes,Yes,Yes,7,14,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Dont know 
+120,Yes,Yes,Yes,Yes,5,35,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Kulla ,Daatun 
+121,Yes,Yes,Yes,Yes,5,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+122,Yes,Yes,Yes,Yes,5,18,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+123,Yes,Yes,Yes,Yes,5,16,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+124,Yes,Yes,Yes,Yes,5,13,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+125,No,No,No,No,11,23,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+126,No,No,No,No,11,50,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Daatun 
+127,No,No,No,No,11,28,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+128,No,No,No,No,11,25,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+129,No,No,No,No,11,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+130,No,No,No,No,11,19,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Dont Know 
+131,No,No,No,No,11,17,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Dont know 
+132,No,No,No,No,11,6,Daily ,Nothing  ,"Toothpaste ,Toothbrush ",Nothing  ,Nothing  ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Nothing  
+133,No,No,No,No,11,4,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+134,No,No,No,No,11,2,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+135,No,No,No,No,11,34,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+136,No,No,No,No,5,35,Daily ,"Toothpaste ,Toothbrush ",Kulla ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+137,No,No,No,No,5,15,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+138,No,No,No,No,5,11,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+139,No,No,No,No,5,9,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+140,No,No,No,No,5,55,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Kulla 
+141,Yes,No,Yes,No,6,40,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+142,Yes,No,Yes,No,6,16,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+143,Yes,No,Yes,No,6,14,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+144,Yes,No,Yes,No,6,11,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+145,Yes,No,Yes,No,6,8,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+146,Yes,No,Yes,No,6,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+147,Yes,Yes,Yes,Yes,5,27,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+148,Yes,Yes,Yes,Yes,5,11,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+149,Yes,Yes,Yes,Yes,5,9,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+150,Yes,Yes,Yes,Yes,5,5,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+151,Yes,Yes,Yes,Yes,5,5,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+152,Yes,Yes,Yes,Yes,4,34,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+153,Yes,Yes,Yes,Yes,4,11,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+154,Yes,Yes,Yes,Yes,4,9,Daily ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+155,Yes,Yes,Yes,Yes,4,7,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla 
+156,Yes,Yes,Yes,Yes,4,36,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+157,Yes,Yes,Yes,Yes,4,18,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+158,Yes,Yes,Yes,Yes,4,14,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+159,Yes,Yes,Yes,Yes,4,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+160,Yes,Yes,Yes,Yes,4,16,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+161,Yes,Yes,Yes,Yes,4,17,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+162,Yes,Yes,Yes,Yes,4,53,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Daatun 
+163,Yes,Yes,Yes,Yes,4,48,Daily ,Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Daatun 
+164,Yes,Yes,Yes,Yes,3,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+165,Yes,Yes,Yes,Yes,3,33,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+166,Yes,Yes,Yes,Yes,3,15,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+167,No,No,No,No,4,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+168,No,No,No,No,4,40,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Kulla ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+169,No,No,No,No,4,38,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+170,No,No,No,No,4,18,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+171,Yes,Yes,Yes,Yes,4,36,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+172,Yes,Yes,Yes,Yes,4,11,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+173,Yes,Yes,Yes,Yes,4,10,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+174,Yes,Yes,Yes,Yes,4,8,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+175,Yes,Yes,Yes,Yes,3,59,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+176,Yes,Yes,Yes,Yes,3,55,Daily ,Daatun ,Ash ,Daatun ,Ash ,Daatun ,Ash ,Ash 
+177,Yes,Yes,Yes,Yes,3,26,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+178,Yes,Yes,Yes,Yes,4,48,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+179,Yes,Yes,Yes,Yes,4,50,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+180,Yes,Yes,Yes,Yes,4,18,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+181,Yes,Yes,Yes,Yes,4,14,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+182,Yes,Yes,Yes,Yes,5,24,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+183,Yes,Yes,Yes,Yes,5,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+184,Yes,Yes,Yes,Yes,5,18,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+185,Yes,Yes,Yes,Yes,5,48,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+186,Yes,Yes,Yes,Yes,5,49,Daily ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush "
+187,Yes,Yes,Yes,Yes,3,19,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+188,Yes,Yes,Yes,Yes,3,44,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Daatun 
+189,Yes,Yes,Yes,Yes,3,48,Daily ,Daatun ,Daatun ,Kulla ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+190,No,No,No,No,3,35,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Ash ,Ash 
+191,No,No,No,No,3,12,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+192,No,No,No,No,3,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+193,Yes,Yes,Yes,Yes,3,40,Daily ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,Daatun ,Daatun 
+194,Yes,Yes,Yes,Yes,3,20,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+195,Yes,Yes,Yes,Yes,3,15,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+196,Yes,Yes,Yes,Yes,3,30,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Ash ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Ash 
+197,Yes,Yes,Yes,Yes,3,4,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Ash ,Daatun 
+198,Yes,Yes,Yes,Yes,3,2,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+199,No,No,No,No,3,27,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+200,No,No,No,No,3,6,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+201,No,No,No,No,3,2,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+202,No,No,No,No,3,28,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+203,No,No,No,No,3,8,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Nothing  ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Nothing  
+204,No,No,No,No,3,1,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+205,No,No,No,No,3,35,Daily ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Kulla ,Daatun 
+206,No,No,No,No,3,12,Daily ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla 
+207,No,No,No,No,3,10,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+208,No,No,No,No,2,27,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+209,No,No,No,No,2,5,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+210,Yes,Yes,Yes,Yes,4,35,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+211,Yes,Yes,Yes,Yes,4,13,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+212,Yes,Yes,Yes,Yes,4,11,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+213,Yes,Yes,Yes,Yes,4,6,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+214,Yes,Yes,Yes,Yes,3,55,Daily ,Ash ,Ash ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Ash ,Daatun 
+215,Yes,Yes,Yes,Yes,3,28,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Ash ,"Toothpaste ,Toothbrush ",Ash 
+216,Yes,Yes,Yes,Yes,3,22,Daily ,"Toothpaste ,Toothbrush ",Ash ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Ash ,Daatun 
+217,Yes,No,Yes,No,3,35,Daily ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla 
+218,Yes,No,Yes,No,3,12,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+219,Yes,No,Yes,No,3,9,Daily ,Daatun ,Kulla ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Nothing  ,Nothing  
+220,Yes,Yes,Yes,Yes,3,43,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+221,Yes,Yes,Yes,Yes,3,15,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+222,Yes,Yes,Yes,Yes,3,13,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+223,Yes,Yes,Yes,Yes,3,24,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+224,Yes,Yes,Yes,Yes,3,4,Daily ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla 
+225,Yes,Yes,Yes,Yes,3,3,Daily ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla 
+226,Yes,Yes,Yes,Yes,3,40,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+227,Yes,Yes,Yes,Yes,3,60,Daily ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+228,Yes,Yes,Yes,Yes,3,58,Daily ,Kulla ,Daatun ,Kulla ,Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Kulla 
+229,Yes,Yes,Yes,Yes,3,22,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+230,Yes,Yes,Yes,Yes,3,5,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+231,Yes,Yes,Yes,Yes,3,3,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+232,Yes,Yes,Yes,Yes,3,35,Daily ,Daatun ,Kulla ,Daatun ,Kulla ,Daatun ,Kulla ,Kulla 
+233,Yes,Yes,Yes,Yes,3,14,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+234,Yes,Yes,Yes,Yes,3,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+235,Yes,Yes,Yes,Yes,4,50,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+236,Yes,Yes,Yes,Yes,4,45,Daily ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+237,Yes,Yes,Yes,Yes,4,10,Daily ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+238,Yes,Yes,Yes,Yes,4,30,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+239,Yes,Yes,Yes,Yes,5,33,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Dont know 
+240,Yes,Yes,Yes,Yes,5,12,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+241,Yes,Yes,Yes,Yes,5,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+242,Yes,Yes,Yes,Yes,5,8,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+243,Yes,Yes,Yes,Yes,5,8,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+244,Yes,Yes,Yes,Yes,3,50,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+245,Yes,Yes,Yes,Yes,3,55,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+246,Yes,Yes,Yes,Yes,3,23,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+247,Yes,Yes,Yes,Yes,3,24,Daily ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun 
+248,Yes,Yes,Yes,Yes,3,2,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+249,Yes,Yes,Yes,Yes,3,1,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+250,Yes,Yes,Yes,Yes,4,55,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Kulla ,Kulla 
+251,Yes,Yes,Yes,Yes,4,50,Daily ,Daatun ,Kulla ,Kulla ,Daatun ,Daatun ,Daatun ,Daatun 
+252,Yes,Yes,Yes,Yes,4,26,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+253,Yes,Yes,Yes,Yes,4,30,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+254,Yes,Yes,Yes,Yes,3,35,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+255,Yes,Yes,Yes,Yes,3,15,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+256,Yes,Yes,Yes,Yes,3,13,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+257,Yes,Yes,Yes,No,5,19,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+258,Yes,Yes,Yes,No,5,17,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+259,Yes,Yes,Yes,No,5,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+260,Yes,Yes,Yes,No,5,50,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,Kulla ,Daatun ,Kulla ,"Toothpaste ,Toothbrush "
+261,Yes,Yes,Yes,No,5,45,Daily ,Kulla ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,Daatun ,Daatun 
+262,Yes,Yes,Yes,Yes,3,60,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+263,Yes,Yes,Yes,Yes,3,25,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+264,Yes,Yes,Yes,Yes,3,55,Daily ,Kulla ,Daatun ,Kulla ,Daatun ,Kulla ,Dont Know ,Dont Know 
+265,Yes,Yes,Yes,Yes,3,32,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+266,Yes,Yes,Yes,Yes,3,14,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+267,Yes,Yes,Yes,Yes,3,3,Daily ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla 
+268,Yes,Yes,Yes,Yes,8,42,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla 
+269,Yes,Yes,Yes,Yes,8,23,Daily ,Daatun ,Kulla ,Daatun ,Kulla ,Daatun ,Kulla ,Kulla 
+270,Yes,Yes,Yes,Yes,8,21,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+271,Yes,Yes,Yes,Yes,8,18,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+272,Yes,Yes,Yes,Yes,8,16,Daily ,Daatun ,Kulla ,Daatun ,Kulla ,Daatun ,Kulla ,Kulla 
+273,Yes,Yes,Yes,Yes,8,2,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+274,Yes,Yes,Yes,Yes,8,22,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+275,Yes,Yes,Yes,Yes,8,19,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+276,Yes,Yes,Yes,Yes,3,26,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+277,Yes,Yes,Yes,Yes,3,70,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Dont Know ,Daatun 
+278,Yes,Yes,Yes,Yes,3,60,Daily ,Daatun ,"Toothbrush ,Toothpaste ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Dont Know ,Dont Know 
+279,Yes,Yes,Yes,Yes,3,18,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+280,Yes,Yes,Yes,Yes,3,44,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+281,Yes,Yes,Yes,Yes,3,22,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+282,No,No,No,No,4,46,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+283,No,No,No,No,4,24,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+284,No,No,No,No,4,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+285,No,No,No,No,4,22,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+286,No,No,No,No,5,30,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+287,No,No,No,No,5,9,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+288,No,No,No,No,5,7,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+289,No,No,No,No,5,4,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+290,Yes,Yes,Yes,Yes,3,25,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+291,Yes,Yes,Yes,Yes,3,50,Daily ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+292,Yes,Yes,Yes,Yes,3,45,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+293,Yes,Yes,Yes,Yes,3,35,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+294,Yes,Yes,Yes,Yes,3,13,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+295,Yes,Yes,Yes,Yes,3,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+296,Yes,Yes,Yes,Yes,4,30,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+297,Yes,Yes,Yes,Yes,4,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+298,Yes,Yes,Yes,Yes,4,7,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+299,Yes,Yes,Yes,Yes,4,5,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+300,Yes,Yes,Yes,Yes,3,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+301,Yes,Yes,Yes,Yes,3,46,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+302,Yes,Yes,Yes,Yes,3,44,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+303,Yes,Yes,Yes,Yes,3,44,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+304,Yes,Yes,Yes,Yes,3,43,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+305,Yes,Yes,Yes,Yes,3,13,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+306,No,No,No,No,5,40,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+307,No,No,No,No,5,20,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+308,No,No,No,No,5,18,Daily ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+309,No,No,No,No,5,16,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+310,No,No,No,No,3,42,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+311,Yes,Yes,Yes,Yes,3,12,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+312,Yes,Yes,Yes,Yes,3,17,Daily ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun 
+313,Yes,Yes,Yes,Yes,3,45,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+314,Yes,Yes,Yes,Yes,3,22,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+315,Yes,Yes,Yes,Yes,3,23,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+316,Yes,Yes,Yes,Yes,4,39,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+317,Yes,Yes,Yes,Yes,4,59,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+318,Yes,Yes,Yes,Yes,4,19,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+319,Yes,Yes,Yes,Yes,4,17,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+320,Yes,Yes,Yes,Yes,4,40,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+321,Yes,Yes,Yes,Yes,4,17,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+322,Yes,Yes,Yes,Yes,4,16,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+323,Yes,Yes,Yes,Yes,4,12,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+324,No,No,No,No,3,46,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+325,No,No,No,No,3,20,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+326,No,No,No,No,3,17,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+327,Yes,Yes,Yes,Yes,3,24,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun 
+328,Yes,Yes,Yes,Yes,3,50,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+329,Yes,Yes,Yes,Yes,3,45,Daily ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Kulla ,Daatun 
+330,No,No,No,No,4,28,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+331,No,No,No,No,4,1,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+332,No,No,No,No,4,68,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+333,Yes,Yes,Yes,Yes,4,48,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+334,Yes,Yes,Yes,Yes,4,25,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+335,Yes,Yes,Yes,Yes,4,17,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+336,Yes,Yes,Yes,Yes,4,22,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+337,Yes,Yes,Yes,Yes,3,27,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+338,Yes,Yes,Yes,Yes,3,39,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun 
+339,Yes,Yes,Yes,Yes,3,12,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+340,Yes,Yes,Yes,Yes,5,62,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,Daatun 
+341,Yes,Yes,Yes,Yes,5,55,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+342,Yes,Yes,Yes,Yes,5,27,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+343,Yes,Yes,Yes,Yes,5,25,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+344,Yes,Yes,Yes,Yes,5,2,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+345,No,No,No,No,4,46,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+346,No,No,No,No,4,22,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+347,No,No,No,No,4,21,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+348,No,No,No,No,4,4,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush "
+349,Yes,Yes,Yes,Yes,4,42,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Dont know 
+350,Yes,Yes,Yes,Yes,4,18,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+351,Yes,Yes,Yes,Yes,4,14,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+352,Yes,Yes,Yes,Yes,4,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+353,Yes,Yes,Yes,Yes,3,25,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+354,Yes,Yes,Yes,Yes,3,8,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+355,Yes,Yes,Yes,Yes,3,3,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+356,Yes,No,Yes,No,4,45,Daily ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+357,Yes,No,Yes,No,4,18,Daily ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+358,Yes,No,Yes,No,4,14,Daily ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+359,Yes,No,Yes,No,4,20,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+360,Yes,Yes,Yes,Yes,4,55,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+361,Yes,Yes,Yes,Yes,4,50,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+362,Yes,Yes,Yes,Yes,4,30,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+363,Yes,Yes,Yes,Yes,4,25,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+364,No,No,No,No,3,40,Daily ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+365,Yes,Yes,Yes,Yes,3,35,Daily ,"Toothpaste ,Toothbrush ",Ash ,"Toothpaste ,Toothbrush ",Ash ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+366,Yes,Yes,Yes,Yes,3,16,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+367,No,No,No,No,4,42,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+368,No,No,No,No,4,40,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+369,No,No,No,No,4,18,Daily ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+370,No,No,No,No,4,20,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+371,No,No,No,No,3,32,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+372,No,No,No,No,3,4,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+373,No,No,No,No,3,7,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+374,Yes,Yes,Yes,Yes,3,24,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+375,Yes,Yes,Yes,Yes,3,45,Daily ,Kulla ,Daatun ,Kulla ,Daatun ,"Toothpaste ,Toothbrush ",Kulla ,Daatun 
+376,Yes,Yes,Yes,Yes,3,43,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+377,No,No,No,No,3,50,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+378,No,No,No,No,3,11,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun 
+379,No,No,No,No,3,21,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+380,Yes,Yes,Yes,Yes,3,50,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+381,Yes,Yes,Yes,Yes,3,25,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+382,Yes,Yes,Yes,Yes,3,32,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+383,Yes,Yes,Yes,Yes,3,60,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+384,Yes,Yes,Yes,Yes,3,33,Daily ,Kulla ,Daatun ,Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla 
+385,Yes,Yes,Yes,Yes,3,7,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+386,Yes,Yes,Yes,Yes,4,38,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+387,Yes,Yes,Yes,Yes,4,14,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+388,Yes,Yes,Yes,Yes,4,5,Daily ,Daatun ,Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush "
+389,Yes,Yes,Yes,Yes,4,3,Daily ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+390,Yes,Yes,Yes,Yes,3,27,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+391,Yes,Yes,Yes,Yes,3,7,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+392,Yes,Yes,Yes,Yes,3,3,Daily ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla 
+393,Yes,Yes,Yes,Yes,5,55,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+394,Yes,Yes,Yes,Yes,5,50,Daily ,Kulla ,Daatun ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Kulla ,Kulla 
+395,Yes,Yes,Yes,Yes,5,30,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+396,Yes,Yes,Yes,Yes,5,3,Daily ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla 
+397,Yes,Yes,Yes,Yes,5,15,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+398,No,No,No,No,4,45,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Ash ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+399,No,No,No,No,4,22,Daily ,Ash ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Ash 
+400,No,No,No,No,4,14,Daily ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Ash ,"Toothpaste ,Toothbrush "
+401,No,No,No,No,4,20,Daily ,"Toothpaste ,Toothbrush ",Ash ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+402,No,No,No,No,3,42,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+403,No,No,No,No,3,18,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+404,No,No,No,No,3,18,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+405,Yes,Yes,Yes,Yes,5,50,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+406,Yes,Yes,Yes,Yes,5,45,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+407,Yes,Yes,Yes,Yes,5,15,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+408,Yes,Yes,Yes,Yes,5,13,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+409,Yes,Yes,Yes,Yes,5,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+410,No,No,No,No,3,55,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+411,No,No,No,No,3,45,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+412,No,No,No,No,3,19,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun 
+413,Yes,No,Yes,No,4,26,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+414,Yes,No,Yes,No,4,55,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+415,Yes,No,Yes,No,4,17,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+416,Yes,No,Yes,No,4,3,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+417,Yes,Yes,Yes,Yes,5,50,Daily ,"Toothpaste ,Toothbrush ",Ash ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+418,Yes,Yes,Yes,Yes,5,48,Daily ,Kulla ,Daatun ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Ash 
+419,Yes,Yes,Yes,Yes,5,24,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+420,Yes,Yes,Yes,Yes,5,12,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Kulla ,Daatun ,"Toothpaste ,Toothbrush "
+421,Yes,Yes,Yes,Yes,5,25,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+422,Yes,No,Yes,No,4,45,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+423,Yes,No,Yes,No,4,17,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+424,Yes,No,Yes,No,4,15,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+425,Yes,No,Yes,No,4,7,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+426,Yes,Yes,Yes,Yes,4,30,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Nothing  ,Daatun ,Daatun 
+427,Yes,Yes,Yes,Yes,4,15,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+428,Yes,Yes,Yes,Yes,4,13,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+429,Yes,Yes,Yes,Yes,4,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+430,Yes,Yes,Yes,Yes,3,5,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,Daatun ,Kulla ,Kulla 
+431,Yes,Yes,Yes,Yes,3,3,Daily ,Kulla ,Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,"Toothpaste ,Toothbrush "
+432,Yes,Yes,Yes,Yes,3,3,Daily ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Kulla 
+433,Yes,Yes,Yes,Yes,3,54,Daily ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+434,Yes,Yes,Yes,Yes,3,10,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Daatun ,Dont know ,Dont know ,Dont know ,Dont know 
+435,Yes,Yes,Yes,Yes,3,6,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+436,Yes,Yes,Yes,Yes,5,33,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+437,Yes,Yes,Yes,Yes,5,13,Daily ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+438,Yes,Yes,Yes,Yes,5,10,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+439,Yes,Yes,Yes,Yes,5,8,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+440,Yes,Yes,Yes,Yes,5,6,Daily ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+441,No,No,No,No,3,50,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+442,No,No,No,No,3,34,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+443,No,No,No,No,3,24,Daily ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+444,Yes,Yes,Yes,Yes,4,47,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+445,Yes,Yes,Yes,Yes,4,50,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun 
+446,Yes,Yes,Yes,Yes,4,26,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+447,Yes,Yes,Yes,Yes,4,6,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+448,Yes,Yes,Yes,Yes,3,30,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+449,Yes,Yes,Yes,Yes,3,14,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Dont know ,"Toothpaste ,Toothbrush ",Daatun ,Dont know 
+450,Yes,Yes,Yes,Yes,3,11,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun 
+451,Yes,Yes,Yes,Yes,5,28,Daily ,"Toothbrush ,Toothpaste ",Daatun ,"Toothbrush ,Toothpaste ","Toothbrush ,Toothpaste ","Toothpaste ,Toothbrush ","Toothbrush ,Toothpaste ","Toothbrush ,Toothpaste "
+452,Yes,Yes,Yes,Yes,5,9,Daily ,"Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Kulla ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+453,Yes,Yes,Yes,Yes,5,6,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+454,Yes,Yes,Yes,Yes,5,4,Daily ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla 
+455,Yes,Yes,Yes,Yes,5,2,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+456,Yes,Yes,Yes,Yes,3,37,Daily ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun 
+457,Yes,Yes,Yes,Yes,3,16,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun 
+458,Yes,Yes,Yes,Yes,3,17,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+459,Yes,Yes,Yes,Yes,4,30,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+460,Yes,Yes,Yes,Yes,4,13,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+461,Yes,Yes,Yes,Yes,4,11,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+462,Yes,Yes,Yes,Yes,4,10,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+463,No,No,No,No,3,27,Daily ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+464,No,No,No,No,3,3,Daily ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla 
+465,No,No,No,No,3,52,Daily ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+466,No,No,No,No,3,45,Daily ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+467,No,No,No,No,3,33,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+468,No,No,No,No,3,24,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+469,No,No,No,No,3,25,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+470,No,No,No,No,3,13,Daily ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+471,No,No,No,No,3,18,Daily ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+472,No,No,No,No,3,43,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+473,No,No,No,No,3,12,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+474,No,No,No,No,3,20,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+475,Yes,Yes,Yes,Yes,3,45,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+476,Yes,Yes,Yes,Yes,3,24,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+477,Yes,Yes,Yes,Yes,3,18,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+478,Yes,No,Yes,No,4,27,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+479,Yes,No,Yes,No,4,5,Daily ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,Kulla ,Kulla ,Kulla 
+480,Yes,No,Yes,No,4,4,Daily ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,Kulla 
+481,Yes,No,Yes,No,4,1,Never ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  ,Nothing  
+482,Yes,Yes,Yes,Yes,3,35,Daily ,Daatun ,Daatun ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Dont know 
+483,Yes,Yes,Yes,Yes,3,6,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+484,Yes,Yes,Yes,Yes,3,4,Daily ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Dont know 
+485,Yes,Yes,Yes,Yes,3,30,Daily ,Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+486,Yes,Yes,Yes,Yes,3,3,Daily ,Kulla ,Kulla ,Kulla ,"Toothpaste ,Toothbrush ",Kulla ,Kulla ,Kulla 
+487,Yes,Yes,Yes,Yes,3,3,Daily ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla ,Kulla 
+488,Yes,Yes,Yes,Yes,5,50,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+489,Yes,Yes,Yes,Yes,5,48,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun ,Daatun ,Daatun 
+490,Yes,Yes,Yes,Yes,5,28,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+491,Yes,Yes,Yes,Yes,5,15,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,Daatun ,Daatun 
+492,Yes,Yes,Yes,Yes,5,1,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+493,Yes,Yes,Yes,Yes,3,40,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+494,Yes,Yes,Yes,Yes,3,25,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+495,Yes,Yes,Yes,Yes,3,22,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
+496,No,No,No,No,3,22,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush "
+497,Yes,Yes,Yes,Yes,3,42,Daily ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ",Daatun 
+498,No,No,No,No,3,20,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Ash ,Daatun ,Daatun ,Ash ,Ash 
+499,No,No,No,No,4,59,Daily ,Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun ,"Toothpaste ,Toothbrush ",Daatun 
+500,No,No,No,No,4,38,Daily ,"Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush ","Toothpaste ,Toothbrush "
